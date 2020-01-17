@@ -30,3 +30,5 @@ julia> Pkg.add("TimeZones")
 ```
 
 For detailed installation instructions see the documentation linked above.
+
+Foo
